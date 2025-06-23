@@ -25,8 +25,8 @@ except Exception as e:
 
 # create a file
 OUTPUT_DIR = "recording_file"
-VIDEO_FILENAME = os.path.join(OUTPUT_DIR, "output.avi")
-CSV_FILENAME = os.path.join(OUTPUT_DIR, "pulse_log.csv")
+VIDEO_FILENAME = os.path.join(OUTPUT_DIR, "CL_FH.avi")
+CSV_FILENAME = os.path.join(OUTPUT_DIR, "CL_FH_PRbmp_log.csv")
 SERIAL_PORT = 'COM9' 
 
 baudrate = 9600

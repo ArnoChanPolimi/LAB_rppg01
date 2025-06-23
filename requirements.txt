@@ -4,13 +4,13 @@ biosppy
 ipython
 ipywidgets
 lmfit
-mediapipe
+# mediapipe
 plotly
 PySimpleGUI
 scikit_posthocs
 scikit-image
 tqdm
-tensorflow
+# tensorflow
 torch
 torchaudio
 torchvision
